@@ -12,7 +12,7 @@ Instalasi
 pip install numpy scikit-fuzzy matplotlib
 ```
 
-**Penjelasan requirement:**
+**Penjelasan**
 
 - `numpy` - library untuk operasi array dan matematika
 - `scikit-fuzzy (skfuzzy)` - library untuk fuzzy logic
@@ -36,7 +36,7 @@ import numpy as np
 import skfuzzy as fuzz
 ```
 
-- Mengimpor scikit-fuzzy untuk fungsi membership (trapezoid, triangular)
+- Mengimpor scikit-fuzzy untuk fungsi membership (trapezoid dan triangular)
 
 ```python
 from skfuzzy import control as ctrl
