@@ -312,21 +312,6 @@ plt.show()
 
 ---
 
-## Cara Menjalankan
-
-### Opsi 1: Run via Terminal
-
-```bash
-python pelayananMasyarakat.py
-python tokoHewan.py
-```
-
-### Opsi 2: Run via VS Code
-
-- Buka file, tekan `F5` atau klik Run button
-
----
-
 ## Perbedaan Kedua Program
 
 | Aspek                 | Pelayanan Masyarakat | Toko Hewan                 |
